@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BALAJIISWAROOP
 - 👀 I’m interested in App Development 
 - 🌱 I’m currently a Student in Artificial intelligence and Machine Learning...
-- 💞️ I’m looking to collaborate on ... web Development 
+- 💞️ I’m looking to collaborate on ... Web Development 
 - 📫 How to reach me ... linkedin.com/in/balajiiswaroop/
 
 <!---
