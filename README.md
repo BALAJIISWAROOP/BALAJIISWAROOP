@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python Development and Frontend Development**
 
-- 👨‍💻 All of my projects are available at [github.com/balajiiswaroop](github.com/balajiiswaroop)
+- 👨‍💻 All of my projects are available at [github.com/balajiiswaroop](https://github.com/balajiiswaroop)
 
 - 💬 Ask me about **Python,Frontend**
 
